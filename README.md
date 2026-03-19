@@ -79,7 +79,6 @@ This project successfully shows how a digital clock can be designed using Verilo
 
 ## Future Scope
 - Display output on **7-segment display**
-- Implement on **FPGA board**
-- Add simple **alarm feature**
-- Improve display using **LED or LCD**
-- Add manual **time setting using buttons**
+- Implementation on **FPGA board**
+- Adding **alarm feature**
+- Adding manual **time setting using buttons**

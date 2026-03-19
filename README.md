@@ -71,6 +71,9 @@ s1 s2 → Seconds
 ## Outputs
 - Time increases correctly every second  
 ![outout](vivado_gp.png)
+![outout](vivado_op.png)
+![outout](vivado_td.png)
+![outout](vivado_p.png)
 
 
 ## Conclusion

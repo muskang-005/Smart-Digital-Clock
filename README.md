@@ -70,7 +70,7 @@ s1 s2 → Seconds
 
 ## Outputs
 - Time increases correctly every second  
-- Example:
+![outout](vivado_gp.png)
 
 
 ## Conclusion

@@ -80,7 +80,6 @@ This project has successfully demonstrated the design of a digital clock using V
 
 
 ## Future Scope
-- Display output on **7 segment display**
 - Implementation on **FPGA board**
 - Adding **alarm feature**
 - Adding manual **time setting using buttons**
